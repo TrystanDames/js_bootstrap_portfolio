@@ -1,0 +1,23 @@
+#guess {
+    background-color: #15e40d;
+    border: 50px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
+#Game {
+    color: rgb(247, 10, 156);
+}
+
+body {
+    background-color: black;
+}
+
+#quest {
+    color: blue;
+    font-size: 20px;
+}
